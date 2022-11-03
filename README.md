@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sara Bentafat ,
+### Hi there 👋 I'm Sara  ,
  - 🔭 i'm a computer science student ✨
 
 <!--
