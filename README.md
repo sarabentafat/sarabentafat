@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sara Bentafat ,
- - 🔭 I’m currentlyI'm a computer science student ✨
+ - 🔭 i'm a computer science student ✨
 
 <!--
 **sarabentafat/sarabentafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
