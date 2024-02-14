@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/d0/29/41/d029410657671e1057939edab475a2a6.gif" align="center" style="width: 100%" />
+
   <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi im sara Bentafat👨‍💻 Web Developer and ctf player  🚀</div>  
+### <div align="center">
+Hi im sara Bentafat👨‍💻 Web Developer and ctf player  🚀</div>  
   
 
 - 🔭 I’m currently  a 4th year computer engineering student at ESTIN [https://estin.dz/] (cyber security speciality)  
