@@ -59,7 +59,6 @@ Hi im sara Bentafat👨‍💻 Web Developer and ctf player  🚀</div>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
