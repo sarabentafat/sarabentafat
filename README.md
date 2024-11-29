@@ -11,7 +11,7 @@ Hi im sara Bentafat👨‍💻 Web Developer and ctf player  🚀</div>
 - 🔭 I’m currently  a 5th year computer engineering student at  <a href="https://estin.dz/">Estin</a>(cyber security speciality)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓open for remote work (freelance, full time job, part time job)
 
   
 - 🌱 Here's my  <a href="https://sarabentafat.netlify.app/">portfolio</a>
