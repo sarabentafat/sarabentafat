@@ -8,7 +8,7 @@
 Hi im SARA BENTAFAT 👨‍💻 Full-stack Developer and ctf player  🚀</div>  
   
 
-- 🔭 I’m currently  a 5th year computer engineering student at  <a href="https://estin.dz/">Estin</a>(cyber security speciality)  
+- 🔭 I’m computer engineering grauate  <a href="https://estin.dz/">Estin</a>(cyber security speciality)  
   
 
 - ❓open for remote work (freelance, full time job, part time job)
